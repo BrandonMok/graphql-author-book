@@ -1,5 +1,4 @@
 ## GraphQL Tester
-***
 
 Simple GraphQL + ExpressJS test API used for GraphQL learning purposes.
 
@@ -7,9 +6,9 @@ Simple GraphQL + ExpressJS test API used for GraphQL learning purposes.
 npm install
 
 ### Installed Packages
-Express
-Express-GraphQL
-graphql
+Express__
+Express-GraphQL__
+graphql__
 nodemon
 
 ### Port
@@ -19,5 +18,5 @@ nodemon
 /graphQL
 
 ### GraphQL Object Types
-Author
+Author__
 Book
